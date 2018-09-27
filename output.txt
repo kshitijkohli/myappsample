@@ -1,0 +1,18 @@
+Script started on Thu Sep 27 21:44:38 2018
+[?1034hbash-3.2$ git init
+Initialized empty Git repository in /Users/kkohli/Desktop/github/.git/
+bash-3.2$ ls -a
+.		..		.git		output.txt
+bash-3.2$ ls
+output.txt
+bash-3.2$ cd .git
+bash-3.2$ ls
+HEAD		config		description	hooks		info		objects		refs
+bash-3.2$ cd ..
+bash-3.2$ git --versi[Kion
+git version 2.15.2 (Apple Git-101.1)
+bash-3.2$ touch index[K[K[K[K[K[K[K[K[K[K[Kpwd
+/Users/kkohli/Desktop/github
+bash-3.2$ touch index.html
+bash-3.2$ touch app.js
+bash-3.2$ 
